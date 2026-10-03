@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of datlechin/flarum-link-clicks.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-link-clicks) or the [upstream repository](https://github.com/datlechin/flarum-link-clicks).
 
-**0** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/datlechin-flarum-link-clicks/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`v1.2.0`](https://github.com/flarchive/datlechin-flarum-link-clicks/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-08 | `^2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-link-clicks/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-05-09 | `^2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-link-clicks/tree/archive/v1.1.0) |
+| `v1.2.0` | 2026-08-29 | `^2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-link-clicks/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/datlechin-flarum-link-clicks.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-link-clicks.json)
 
